@@ -27,7 +27,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  */
 @SpringBootApplication(proxyBeanMethods = false)
 public class PetClinicApplication {
-	//modificamos
+	//modificamos desde remoto
 	public static void main(String[] args) {
 		SpringApplication.run(PetClinicApplication.class, args);
 	}
